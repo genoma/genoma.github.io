@@ -9,7 +9,7 @@ permalink:        pretty
 title:            genoma's kitchen
 tagline:          'your daily cup of coffeescript'
 description:      "Alessandro Vioni's blog about interface web desing, Vim, OS X, frameworks and languages for the web, written on Jekyll and poole/lanyon."
-url:              http://genoma.getpoole.com
+url:              http://genoma.github.io/
 
 author:
   name:           'Alessandro Vioni'
