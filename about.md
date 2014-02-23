@@ -23,6 +23,6 @@ Blog build with [Jekyll](http://jekyllrb.com), [Lanyon](http://lanyon.getpoole.c
 * [Marco Temperilli](http://gallucca.tumblr.com/)
 * Davide Guldoni Computer Graphics
 
-### Contatti
+### Contacts
 * [@jenoma](https://twitter.com/jenoma)
 * [@gmail](mailto:jenoma@gmail.com)
