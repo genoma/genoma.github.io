@@ -2,29 +2,27 @@
 layout: page
 title: About
 ---
+### Alessandro Vioni, interface web developer.
+* [Foundation](http://foundation.zurb.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [SASS](http://sass-lang.com/)
+* [Less](http://lesscss.org/)
+* [CoffeeScript](http://coffeescript.org/)
+* [jQuery](http://jquery.com/)
+* [Vim](http://www.vim.org/)
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Blog build with [Jekyll](http://jekyllrb.com), [Lanyon](http://lanyon.getpoole.com), hosted on [GitHub Pages](https://pages.github.com).
+<br>
+### Working for
+* [Command Guru](http://www.commandguru.com)
+* [Prof. Giuseppe Gizzi](http://www.endoscopy-colon-explorer.com)
 
-There are currently two themes built on Poole:
+### Working with
+* [Ilaria Bondi](http://illustrazionianatomiche.com/)
+* [Marco Temperilli](http://gallucca.tumblr.com/)
+* Davide Guldoni Computer Graphics
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Contatti
+* [@jenoma](https://twitter.com/jenoma)
+* [@gmail](mailto:jenoma@gmail.com)
