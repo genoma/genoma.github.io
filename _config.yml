@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            genoma's kitchen
+tagline:          'your daily cup of coffeescript'
+description:      "Alessandro Vioni's blog about interface web desing, Vim, OS X, frameworks and languages for the web, written on Jekyll and poole/lanyon."
+url:              http://genoma.getpoole.com
+
+author:
+  name:           'Alessandro Vioni'
+  url:            https://twitter.com/jenoma
+
+paginate:         5
+
+# Custom vars
+version:          0.2.0
+
+github:
+  repo:           https://github.com/genoma/genomA-Vim
