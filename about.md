@@ -9,11 +9,25 @@ title: About
 * [Less](http://lesscss.org/)
 * [CoffeeScript](http://coffeescript.org/)
 * [jQuery](http://jquery.com/)
+* [Grunt](http://gruntjs.com/)
+* [Bower](http://bower.io/)
+* [Jekillrb](http://jekyllrb.com/)
+* [Smarty](http://www.smarty.net/)
+
+### Setup & Tools
+* [OS X](https://www.apple.com/osx/)
 * [Vim](http://www.vim.org/)
+* [iTerm 2](https://github.com/gnachman/iTerm2)
+* [Chrome](https://www.google.com/intl/en/chrome/browser/)
 
+### Complementary software
+* [Ember](http://realmacsoftware.com/ember)
+* [Clear](http://realmacsoftware.com/clear)
+* [Radium](http://catpigstudios.com/)
+* [Digitally Imported](http://www.di.fm/)
 
-Blog build with [Jekyll](http://jekyllrb.com), [Lanyon](http://lanyon.getpoole.com), hosted on [GitHub Pages](https://pages.github.com).
-<br>
+<hr>
+
 ### Working for
 * [Command Guru](http://www.commandguru.com)
 * [Prof. Giuseppe Gizzi](http://www.endoscopy-colon-explorer.com)
@@ -23,6 +37,13 @@ Blog build with [Jekyll](http://jekyllrb.com), [Lanyon](http://lanyon.getpoole.c
 * [Marco Temperilli](http://gallucca.tumblr.com/)
 * Davide Guldoni Computer Graphics
 
+
 ### Contacts
 * [@jenoma](https://twitter.com/jenoma)
 * [@gmail](mailto:jenoma@gmail.com)
+
+<br><br>
+
+<small>
+Blog build with [Jekyll](http://jekyllrb.com), [Lanyon](http://lanyon.getpoole.com), hosted on [GitHub Pages](https://pages.github.com).
+</small>
