@@ -18,6 +18,7 @@ title: About
 * [OS X](https://www.apple.com/osx/)
 * [Vim](http://www.vim.org/)
 * [iTerm 2](https://github.com/gnachman/iTerm2)
+* [FastCommander](http://osx-fastcommander.appspot.com/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
 
 ### Complementary software
