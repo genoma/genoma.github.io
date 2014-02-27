@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+
 ### Alessandro Vioni, interface web developer.
 * [Foundation](http://foundation.zurb.com/)
 * [Bootstrap](http://getbootstrap.com/)
