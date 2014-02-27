@@ -39,5 +39,4 @@ $.fn.extend
       log "Option 1 value: #{settings.option1}"
 
 </code></pre>
-### Gist[!]
-**[jquery-plugin.coffee](https://gist.github.com/genoma/6623332)**
+### [Gist[!]](https://gist.github.com/genoma/9248932)
