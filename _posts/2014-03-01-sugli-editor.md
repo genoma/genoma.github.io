@@ -11,8 +11,7 @@ Per chi _sviluppa interfacce per il web_ le scelte sono svariate, ma non infinit
 <br>
 
 # [Brackets](http://brackets.io/)
-### Open Source - Adobe
-#### Difficoltà semplice
+### Open Source - Adobe - Difficoltà semplice
 
 Brakets è un editor per _front end developers_ caratterizzato da un modello di sviluppo basato sull’HTML5 e Javascript: l’editor è un _browser_ spinto da **[node.js](http://nodejs.org/)** e **CSS**.
 
@@ -23,8 +22,7 @@ Di base l’editor e’ un ottimo compromesso per chi si avvicina al mondo dello
 <br>
 
 # [Atom](https://atom.io/)
-### Open/Closed source(?) - GitHub
-#### Difficoltà media
+### Open/Closed source(?) - GitHub - Difficoltà media
 
 Atom è il nuovo editor _multi purpose_ sviluppato da GitHub su base **[Chromium](http://www.chromium.org/)**, **CoffeeScript**, **[node.js](http://nodejs.org/)**, **HTML5** e **[Less](http://lesscss.org/)**.
 
@@ -35,8 +33,7 @@ Il software è al momento solo disponibile per **OS X**
 <br>
 
 # [Sublime Text 3](http://www.sublimetext.com/3)
-### Commercial
-#### Difficoltà difficile
+### Commercial - Difficoltà elevata
 
 Sublime è un editor che si avvicina al modello [Vim](http://www.vim.org/) per quantità di funzioni, presenza di _plugins_, qualità del prodotto, ma di contro ha una curva di apprendimento piuttosto lunga.
 
@@ -45,8 +42,7 @@ Sfortunatamente sembra che lo sviluppo sia arrivato ad uno stallo, per ragioni m
 <br>
 
 # [Vim](http://www.vim.org)
-### Open Source
-#### Difficoltà difficile
+### Open Source Difficoltà agghiacciante
 
 _Vim e’ un tool il cui uso deve essere imparato_ [[Vim - About]](http://www.vim.org/about.php)]
 
