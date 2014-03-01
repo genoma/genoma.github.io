@@ -11,7 +11,7 @@ tags: coffeescript
 Per scrivere un plugin per **jQuery** in **CoffeeScript**:
 
 ### CoffeeScript
-<pre><code>
+{% highlight coffeescript %}
 # Reference jQuery
 $ = jQuery
 
@@ -37,6 +37,6 @@ $.fn.extend
       log "Preparing magic show."
       # You can use your settings in here now.
       log "Option 1 value: #{settings.option1}"
+{% endhighlight %}
 
-</code></pre>
 ### [Gist[!]](https://gist.github.com/genoma/9248932)

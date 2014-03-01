@@ -9,7 +9,7 @@ Su **Foundation5 v1.0.4** se `body,html{height:100%;}` l'**Offcanavas** menu non
 ## Soulzione
 
 #### Coffeescript
-<pre><code>
+{% highlight coffeescript %}
 $ ->
   timer = undefined
   $(window).resize(->
@@ -21,11 +21,11 @@ $ ->
     return
   ).resize()
   return
-
-</code></pre>
+{% endhighlight %}
 
 #### jQuery
-<pre><code>
+{% highlight js %}
+$ ->
 $(function() {
   var timer;
   timer = void 0;
@@ -36,5 +36,4 @@ $(function() {
     }, 40);
   }).resize();
 });
-
-</code></pre>
+{% endhighlight %}

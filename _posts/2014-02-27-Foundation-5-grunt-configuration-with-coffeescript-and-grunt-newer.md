@@ -7,7 +7,7 @@ tags: Foundation grunt CoffeeScript
 Configurazione per **[Foundation 5](http://foundation.zurb.com/)** [Ruby Gem](http://foundation.zurb.com/docs/sass.html), con aggiunto supporto per **[CoffeeScript](http://coffeescript.org/)** ed integrazione **[grunt-newer](https://www.npmjs.org/package/grunt-newer)**.
 
 #### Gruntfile.js
-<pre><code>
+{% highlight js  %}
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -72,11 +72,10 @@ module.exports = function(grunt) {
   grunt.registerTask('build', ['newer:sass', 'newer:coffee']);
   grunt.registerTask('default', ['build','watch']);
 }
-
-</code></pre>
+{% endhighlight %}
 
 #### package.json
-<pre><code>
+{% highlight json %}
 {
   "name": "foundation-libsass-template",
   "version": "0.0.1",
@@ -89,7 +88,6 @@ module.exports = function(grunt) {
     "grunt-newer": "^0.6.1"
   }
 }
-
-</code></pre>
+{% endhighlight %}
 
 ### [Gist[!]](https://gist.github.com/genoma/9248932)

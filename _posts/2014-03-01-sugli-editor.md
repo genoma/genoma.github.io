@@ -44,8 +44,8 @@ Sfortunatamente sembra che lo sviluppo sia arrivato ad uno stallo, per ragioni m
 # [Vim](http://www.vim.org)
 ### Open Source - Difficoltà agghiacciante
 
-<cite>Vim e’ un tool il cui uso deve essere imparato</cite>
-[Vim - About](http://www.vim.org/about.php)]
+> Vim e’ uno strumento il cui uso deve essere appreso<br>
+_[Vim - About](http://www.vim.org/about.php)_
 
 Un editor con una curva di apprendimento potenzialmente infinita, considerato da molti il miglior editor mai sviluppato, si distingue per essere sviluppato attivamente dopo 23 anni, per il numero di plugin e per la community enorme che circonda questo software.
 
