@@ -21,6 +21,8 @@ title: About
 * [iTerm 2](https://github.com/gnachman/iTerm2)
 * [FastCommander](http://osx-fastcommander.appspot.com/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
+* [Firefox](http://www.mozilla.org/en-US/firefox/new/)
+* [Safari](https://www.apple.com/safari/)
 
 ### Complementary software
 * [Ember](http://realmacsoftware.com/ember)
