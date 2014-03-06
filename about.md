@@ -39,7 +39,7 @@ title: About
 ### Working with
 * [Ilaria Bondi](http://illustrazionianatomiche.com/)
 * [Marco Temperilli](http://gallucca.tumblr.com/)
-* Davide Guldoni Computer Graphics
+* [Davide Guldoni Computer Graphics](https://vimeo.com/guldoni)
 
 
 ### Contacts
