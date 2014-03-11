@@ -23,6 +23,7 @@ title: About
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
 * [Safari](https://www.apple.com/safari/)
+* [Kaleidoscope](http://www.kaleidoscopeapp.com/)
 
 ### Complementary software
 * [Ember](http://realmacsoftware.com/ember)
