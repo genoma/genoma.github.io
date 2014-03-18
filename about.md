@@ -35,7 +35,6 @@ title: About
 
 ### Working for
 * [Command Guru](http://www.commandguru.com)
-* [Prof. Giuseppe Gizzi](http://www.endoscopy-colon-explorer.com)
 
 ### Working with
 * [Ilaria Bondi](http://illustrazionianatomiche.com/)
