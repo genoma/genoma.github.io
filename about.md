@@ -10,31 +10,32 @@ title: About
 * [Less](http://lesscss.org/)
 * [CoffeeScript](http://coffeescript.org/)
 * [jQuery](http://jquery.com/)
+* [Angular](https://angularjs.org)
 * [Grunt](http://gruntjs.com/)
+* [Gulp](http://gulpjs.com)
 * [Bower](http://bower.io/)
 * [Jekillrb](http://jekyllrb.com/)
 * [Smarty](http://www.smarty.net/)
+* [PHP](http://php.net)
 
 ### Setup & Tools
 * [OS X](https://www.apple.com/osx/)
 * [Vim](http://www.vim.org/)
 * [iTerm 2](https://github.com/gnachman/iTerm2)
-* [FastCommander](http://osx-fastcommander.appspot.com/)
-* [Chrome](https://www.google.com/intl/en/chrome/browser/)
-* [Firefox](http://www.mozilla.org/en-US/firefox/new/)
-* [Safari](https://www.apple.com/safari/)
-* [Kaleidoscope](http://www.kaleidoscopeapp.com/)
+* [Codekit 2](https://incident57.com/codekit/)
+* [Homebrew](http://brew.sh)
 
 ### Complementary software
 * [Ember](http://realmacsoftware.com/ember)
 * [Clear](http://realmacsoftware.com/clear)
-* [Radium](http://catpigstudios.com/)
-* [Digitally Imported](http://www.di.fm/)
+* [Tower](http://www.git-tower.com)
+* [Transmit](http://panic.com/transmit/)
+
 
 <hr>
 
 ### Working for
-* [Command Guru](http://www.commandguru.com)
+* [Krime Farm](http://www.krimefarm.com)
 
 ### Working with
 * [Ilaria Bondi](http://illustrazionianatomiche.com/)

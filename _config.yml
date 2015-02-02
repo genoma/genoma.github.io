@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            genoma's kitchen
-tagline:          'your daily cup of coffeescript'
-description:      "Alessandro Vioni's blog about interface web desing, Vim, OS X, frameworks and languages for the web, written on Jekyll and poole/lanyon."
+title:            Alessandro Vioni
+tagline:          "front end developer"
+description:      "Front end developer born some forty years ago in Italy"
 url:              http://www.alessandrovioni.com
 
 author:
