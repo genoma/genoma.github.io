@@ -7,8 +7,9 @@ permalink:        pretty
 
 # Setup
 title:            Alessandro Vioni
-tagline:          "front end developer"
-description:      "Front end developer born some forty years ago in Italy"
+tagline:          "a front end developer tales"
+description:      "Front End developer born some forty years ago in Italy"
+metadescription:  "Alessandro Vioni Front End developer, with some Vim and OSX addiction, master of responsive design and everything that goes in betweeen"
 url:              http://www.alessandrovioni.com
 
 author:
