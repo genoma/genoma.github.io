@@ -58,4 +58,4 @@ Italiano, English (Fluent)
 
 ## Skills
 
-Proficient in programming languages **Javascript**, **HTML5**, **CSS3**, **CoffeeScript**, **Less**, **Sass**. Extensive knowledge of front end frameworks **Bootstrap**, **Foundation**, **Susy**, **Jekyll** .Also proficient in **CLI** usage **Gulp** and **Grunt**, javascript libraries **jQuery** and **AngularJs**. Excellent knowledge of versioning systems **GIT** and good **SVN** knowledge. Good knowledge of **PHP**, **MySQL** and **Wordpress**, **Jekyll** CMS. Excellent knowledge of **Linux** and **OS X** operating systems, good knowledge of **Windows OS**.
+Proficient in programming languages **Javascript**, **HTML5**, **CSS3**, **CoffeeScript**, **Less**, **Sass**. Extensive knowledge of front end frameworks **Bootstrap**, **Foundation**, **Susy**, **Jekyll**. Also proficient in **CLI** usage **Gulp** and **Grunt**, javascript libraries **jQuery** and **AngularJs**. Excellent knowledge of versioning systems **GIT** and good **SVN** knowledge. Good knowledge of **PHP**, **MySQL** and **Wordpress**, **Jekyll** CMS. Excellent knowledge of **Linux** and **OS X** operating systems, good knowledge of **Windows OS**.
