@@ -49,10 +49,10 @@ $small-px: 700px;
 .title { @include span(10 last); }
 
 // footer grid
-@include susy-breakpoint (960px, 12) {
-  .footer-left { @include span(3 of 12); }
-  .footer-center { @include span(2 of 12); }
-  .footer-right { @include span(7 of 12 last); }
+@include susy-breakpoint (700px) {
+  .footer-left { @include span(3); }
+  .footer-center { @include span(2); }
+  .footer-right { @include span(7 last); }
 }
 
 
