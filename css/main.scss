@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Font path for FontAwesome
+$fa-font-path: '../bower_components/fontawesome/fonts/';
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "../bower_components/normalize.css/normalize.css";
+@import "../bower_components/susy/sass/_susy.scss";
+@import "../bower_components/fontawesome/scss/font-awesome.scss";
+@import "susy-settings";
+@import "variables";
+@import "menu";
+@import "layout";
+@import "syntax-highlighting";

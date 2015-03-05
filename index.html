@@ -2,35 +2,55 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="container">
 
-    <span class="post-date">{{ post.date | date_to_string }}, about {{ post.tags | array_to_sentence_string }}</span>
+  <div class="main">
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+      <li>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+        <a class="post-content-linked" href="{{ post.url | prepend: site.baseurl }}">
+
+        <h1>
+          <i class="fa fa-quote-left article-sign"></i>
+          {{ post.title }}
+          <i class="fa fa-quote-right article-sign"></i>
+        </h1>
+
+        <p class="post-meta"><i class="fa fa-clock-o"></i> {{ post.date | date: "%b %-d, %Y" }}</p>
+
+          <p>
+            {{ post.excerpt | strip_html' }}
+            <i class="fa fa-forward there-is-more"></i>
+          </p>
+
+        </a> <!-- /.post-content-linked -->
+
+      </li>
+      {% endfor %}
+    </ul> <!-- /.post-list -->
+
+
+    <div class="pagination">
+      {% if paginator.next_page %}
+      <a class="pagination-item older" href="/page{{paginator.next_page}}"><i class="fa fa-angle-double-left fa-2x"></i></a>
+      {% else %}
+      <span class="pagination-item left fa-2x older"><i class="fa fa-angle-double-left"></i></span>
+      {% endif %}
+
+      {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/"><i class="fa fa-angle-double-right fa-2x"></i></a>
+      {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}"><i class="fa fa-angle-double-right fa-2x"></i></a>
+      {% endif %}
+
+      {% else %}
+      <i class="fa fa-angle-double-right fa-2x newer"></i>
+      {% endif %}
+    </div> <!-- /.pagination -->
+
+  </div> <!-- /.main -->
+
+</div> <!-- ./container -->

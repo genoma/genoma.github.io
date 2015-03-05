@@ -1,25 +1,24 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: alessandro vioni
+subtitle: front end tales of mistery and immagination
+email: jenoma@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+             Alessandro Vioni front end development tales not for the faint
+             of heart. I write about editors, languages, development methodologies,
+             tools and sometime i just write for the sake of writing.
+footerdescription: >
+                   This blog has been developed with the aid of
+                   Susy and Jekyll, Vim and some coffee. If you'd like
+                   to contact me for any question, please don't esitate and send
+                   an email or a tweet, even a carrier pigeon will do. Thanks for visiting.<br>
+                   Alessandro.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.alessandrovioni.com" # the base hostname & protocol for your site
+twitter_username: jenoma
+github_username:  genoma
+paginate: 5
 
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Alessandro Vioni
-tagline:          "a front end developer tales"
-description:      "Front End developer born some forty years ago in Italy"
-metadescription:  "Alessandro Vioni Front End developer, with some Vim and OSX addiction, master of responsive design and everything that goes in betweeen"
-url:              http://www.alessandrovioni.com
-
-author:
-  name:           'Alessandro Vioni'
-  url:            https://twitter.com/jenoma
-
-paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/genoma
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM

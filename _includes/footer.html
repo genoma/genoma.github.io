@@ -1,0 +1,45 @@
+  <footer>
+
+    <div class="footer-container">
+
+      <div class="footer-left">
+        <ul class="contact-list">
+          <li>
+            <i class="fa fa-globe"></i> <a href="{{ site.url }}">{{ site.title }}</a>
+          </li>
+          <li>
+            <i class="fa fa-paper-plane"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-center">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}" target="_blank">
+              <span class="username"><i class="fa fa-github-alt"></i> {{ site.github_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+              <i class="fa fa-twitter"></i> <span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+          <li>
+            <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-rss"></i> subscribe</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-right">
+        <p class="footer-text">{{ site.footerdescription }}</p>
+      </div>
+
+    </div>
+
+  </footer>

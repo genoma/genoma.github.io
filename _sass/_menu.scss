@@ -1,0 +1,68 @@
+// Menu off-canvas
+
+$menu-width: 300px;
+
+.wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.menu {
+  background: lighten($brand-color, 10);
+  border-right: 1px solid $brand-color;
+  bottom: 0;
+  box-sizing: border-box;
+  font-family: $header-font-family;
+  height: auto;
+  left: 0;
+  margin-left: - $menu-width;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  width: $menu-width;
+
+  ul {
+    font-family: inherit;
+    list-style: none;
+    padding: 0;
+    text-transform: uppercase;
+
+    li {
+      padding: 20 0;
+    }
+  }
+
+  p { font-size: $small-font-size; }
+}
+
+.menu-checkbox {
+  display: none;
+}
+
+.wrapper,
+.menu,
+.menu-toggle {
+  -ms-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.wrapper,
+.menu-toggle,
+.menu {
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+}
+
+#menu-checkbox:checked + .sidebar {
+  visibility: visible;
+  z-index: 10;
+}
+
+#menu-checkbox:checked ~ .menu,
+#menu-checkbox:checked ~ .wrapper,
+#menu-checkbox:checked ~ .menu-toggle {
+  -ms-transform: translateX($menu-width);
+  -webkit-transform: translateX($menu-width);
+  transform: translateX($menu-width);
+}

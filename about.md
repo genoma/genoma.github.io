@@ -1,77 +1,69 @@
 ---
 layout: page
-title: About
-description: Alessandro Vioni wide array of known languages and tools for a optimal and fast Front End development
+title: ABOUT
+description: Alessandro Vioni wide array of known languages and tools for an optimal and fast Front End development
 ---
-<br>
-![Yes it's me!](../img/avioni.png)
 
 ### Frontend Frameworks
-* [Bootstrap](http://getbootstrap.com/)
-* [Foundation](http://foundation.zurb.com/)
-* [Web Starter Kit](https://developers.google.com/web/starter-kit/)
+* [Bootstrap](http://getbootstrap.com/){:target="_blank"}
+* [Foundation](http://foundation.zurb.com/){:target="_blank"}
+* [Web Starter Kit](https://developers.google.com/web/starter-kit/){:target="_blank"}
+* [Susy](http://susy.oddbird.net/){:target="_blank"}
 
 ### Languages
-* [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
-* [CoffeeScript](http://coffeescript.org/)
-* [HTML5](http://www.w3.org/TR/html5/)
-* [Javascript](http://www.ecmascript.org)
-* [Less](http://lesscss.org/)
-* [PHP](http://php.net)
-* [SASS](http://sass-lang.com/)
+* [CSS](http://www.w3.org/Style/CSS/Overview.en.html){:target="_blank"}
+* [CoffeeScript](http://coffeescript.org/){:target="_blank"}
+* [HTML5](http://www.w3.org/TR/html5/){:target="_blank"}
+* [Javascript](http://www.ecmascript.org){:target="_blank"}
+* [Less](http://lesscss.org/){:target="_blank"}
+* [PHP](http://php.net){:target="_blank"}
+* [SASS](http://sass-lang.com/){:target="_blank"}
 
 ### Libraries
-* [Angular](https://angularjs.org)
-* [jQueryUI](http://jqueryui.com)
-* [jQuery](http://jquery.com/)
+* [Angular](https://angularjs.org){:target="_blank"}
+* [jQueryUI](http://jqueryui.com){:target="_blank"}
+* [jQuery](http://jquery.com/){:target="_blank"}
 
-### Development Tools (CLI)
-* [Bower](http://bower.io/)
-* [Grunt](http://gruntjs.com/)
-* [Gulp](http://gulpjs.com)
-* [Smarty](http://www.smarty.net/)
+### Development Tools (CLI){:target="_blank"}
+* [Bower](http://bower.io/){:target="_blank"}
+* [Grunt](http://gruntjs.com/){:target="_blank"}
+* [Gulp](http://gulpjs.com){:target="_blank"}
 
 ### CMS
-* [Jekillrb](http://jekyllrb.com/)
-* [Wordpress](https://wordpress.org)
+* [Jekillrb](http://jekyllrb.com/){:target="_blank"}
+* [Wordpress](https://wordpress.org){:target="_blank"}
 
 ### E-Shop
-* [Prestashop](https://www.prestashop.com/en/)
-* [Shopify](http://www.shopify.com)
+* [Prestashop](https://www.prestashop.com/en/){:target="_blank"}
+* [Shopify](http://www.shopify.com){:target="_blank"}
 
 ### Setup & Software Tools
-* [Atom](https://atom.io)
-* [Codekit 2](https://incident57.com/codekit/)
-* [Homebrew](http://brew.sh)
-* [MacVim](https://code.google.com/p/macvim/)
-* [OS X](https://www.apple.com/osx/)
-* [Sublime Text](http://www.sublimetext.com)
-* [Vim](http://www.vim.org/)
-* [iTerm 2](https://github.com/gnachman/iTerm2)
+* [Atom](https://atom.io){:target="_blank"}
+* [Codekit 2](https://incident57.com/codekit/){:target="_blank"}
+* [Homebrew](http://brew.sh){:target="_blank"}
+* [iTerm 2](https://github.com/gnachman/iTerm2){:target="_blank"}
+* [MacVim](https://code.google.com/p/macvim/){:target="_blank"}
+* [OS X](https://www.apple.com/osx/){:target="_blank"}
+* [Sublime Text](http://www.sublimetext.com){:target="_blank"}
+* [Vim](http://www.vim.org/){:target="_blank"}
 
 ### Complementary software
-* [Clear](http://realmacsoftware.com/clear)
-* [Ember](http://realmacsoftware.com/ember)
-* [Slack](https://slack.com)
-* [Tower](http://www.git-tower.com)
-* [Transmit](http://panic.com/transmit/)
-
-<hr>
+* [Clear](http://realmacsoftware.com/clear){:target="_blank"}
+* [Ember](http://realmacsoftware.com/ember){:target="_blank"}
+* [Slack](https://slack.com){:target="_blank"}
+* [Tower](http://www.git-tower.com){:target="_blank"}
+* [Transmit](http://panic.com/transmit/){:target="_blank"}
 
 ### Working for
-* [Krime Farm](http://www.krimefarm.com)
+* [Krime Farm](http://www.krimefarm.com){:target="_blank"}
 
 ### Working with
-* [Ilaria Bondi](http://illustrazionianatomiche.com/)
-* [Marco Temperilli](http://gallucca.tumblr.com/)
-* [Davide Guldoni Computer Graphics](https://vimeo.com/guldoni)
-
-### Contacts
-* [@jenoma](https://twitter.com/jenoma)
-* [@gmail](mailto:jenoma@gmail.com)
+* [Ilaria Bondi](http://illustrazionianatomiche.com/){:target="_blank"}
+* [Marco Temperilli](http://gallucca.tumblr.com/){:target="_blank"}
+* [Davide Guldoni Computer Graphics](https://vimeo.com/guldoni){:target="_blank"}
 
 <br><br>
 
 <small>
-Blog build with [Jekyll](http://jekyllrb.com), [Lanyon](http://lanyon.getpoole.com), hosted on [GitHub Pages](https://pages.github.com).
+Blog build with [Jekyll](http://jekyllrb.com){:target="_blank"}, hosted on [GitHub Pages](https://pages.github.com){:target="_blank"}.
 </small>
