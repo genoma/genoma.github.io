@@ -4,14 +4,12 @@ layout: default
 <div class="container">
   <div class="main">
 
-
-
     <header class="post-header">
 
       <h1 class="post-title">
         <i class="fa fa-quote-left article-sign"></i>
-        {{ page.title }}
-        <i class="fa fa-quote-right article-sign"></i>
+          <span class="the-wrapped-title">{{ page.title }}</span>
+        <!-- <i class="fa fa-quote-right article-sign"></i> -->
       </h1>
 
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %}{% if page.categories %} • about {{ page.categories | array_to_sentence_string }}{% endif %}</p>

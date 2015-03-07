@@ -12,10 +12,10 @@ layout: default
 
         <a class="post-content-linked" href="{{ post.url | prepend: site.baseurl }}">
 
-        <h1>
+        <h1 class="post-title">
           <i class="fa fa-quote-left article-sign"></i>
-          {{ post.title }}
-          <i class="fa fa-quote-right article-sign"></i>
+          <span class="the-wrapped-title">{{ post.title }}</span>
+          <!-- <i class="fa fa-quote-right article-sign"></i> -->
         </h1>
 
         <p class="post-meta"><i class="fa fa-clock-o"></i> {{ post.date | date: "%b %-d, %Y" }}</p>
