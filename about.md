@@ -24,7 +24,7 @@ description: Alessandro Vioni wide array of known languages and tools for an opt
 * [jQueryUI](http://jqueryui.com){:target="_blank"}
 * [jQuery](http://jquery.com/){:target="_blank"}
 
-### Development Tools (CLI){:target="_blank"}
+### Development Tools (CLI)
 * [Bower](http://bower.io/){:target="_blank"}
 * [Grunt](http://gruntjs.com/){:target="_blank"}
 * [Gulp](http://gulpjs.com){:target="_blank"}
