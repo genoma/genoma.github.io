@@ -16,13 +16,13 @@ $ ->
   $filmWrapper = $(".film-wrapper")
 
   $film.each ->
-    main = this
-    filmName = $(this).attr "data-film"
+    $main = $(this)
+    $filmName = $(this).attr "data-film"
 
-    $.getJSON("http://www.omdbapi.com/?t=" + filmName + "&plot=short&r=json").done (data, status) ->
-      writeResults(data, main)
-      $(main).attr "data-complete", "true"
-      $(main).attr "data-year", data.Year
+    $.getJSON("http://www.omdbapi.com/?t=" + $filmName + "&plot=short&r=json").done (data, status) ->
+      writeResults(data, $main)
+      $main.attr "data-complete", "true"
+      $main.attr "data-year", data.Year
 
       if checkElements($film)
         $filmWrapper.append $film.sort((a, b) ->
@@ -50,7 +50,7 @@ checkElements = (element) ->
   howMany = 0
   $(element).each ->
     if $(this).attr "data-complete"
-      howMany++
+      howMany += 1
       if howMany is elementLength
         result = true
     else
@@ -67,7 +67,7 @@ writeGrid = (element) ->
   # than write correct grid classes
   theIndex = 0
   $(element).each ->
-    theIndex++
+    theIndex += 1
     if theIndex is 1
       $(this).addClass "film-left"
     else if theIndex is 2
