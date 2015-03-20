@@ -23,6 +23,7 @@ $ ->
       writeResults(data, main)
       $(main).attr "data-complete", "true"
       $(main).attr "data-year", data.Year
+
       if checkElements($film)
         $filmWrapper.append $film.sort((a, b) ->
           return $(a).data("year") - $(b).data("year")
@@ -37,10 +38,11 @@ $ ->
           "opacity": '1'
         , 200
 
+        $(".loading-films").fadeOut 100
+
         return
     return
   return
-
 
 checkElements = (element) ->
   result = null
@@ -75,6 +77,3 @@ writeGrid = (element) ->
       theIndex = 0
       return
   return
-
-
-

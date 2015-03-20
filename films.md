@@ -7,6 +7,8 @@ description: Alessandro Vioni favorite films
 
 My favorite films in chronological order (updated often):
 
+<i class="fa fa-spin fa-cog fa-4x loading-films"></i>
+
 <div class="film-wrapper">
 
   <div class="film" data-film="Platoon">
@@ -140,4 +142,3 @@ My favorite films in chronological order (updated often):
   </div>
 
 </div>
-
