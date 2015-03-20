@@ -5,7 +5,7 @@ permalink: /films/
 description: Alessandro Vioni favorite films
 ---
 
-My all time favorite films in chronological order:
+My favorite films in chronological order (updated often):
 
 <div class="film-wrapper">
 
