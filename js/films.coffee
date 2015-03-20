@@ -69,10 +69,8 @@ writeGrid = (element) ->
   $(element).each ->
     theIndex++
     if theIndex is 1
-      console.log "left"
       $(this).addClass "film-left"
     else if theIndex is 2
-      console.log "center"
       $(this).addClass "film-right"
       theIndex = 0
       return
