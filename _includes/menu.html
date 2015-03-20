@@ -2,6 +2,13 @@
 
 <nav class="menu" role="navigation">
 
+  <label for="menu-checkbox" class="menu-toggle">
+    <span class="fa-stack fa-menu menu-close">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-times fa-stack-1x"></i>
+    </span>
+  </label>
+
   <ul>
     {% for page in site.pages %}
     {% if page.title %}

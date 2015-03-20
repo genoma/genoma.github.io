@@ -1,0 +1,52 @@
+// FILM GRID
+
+@include susy-breakpoint (700px) {
+  .film-left { @include span(6); }
+  .film-right { @include span(6 last); }
+}
+
+.film-grid {
+  @include container($small-px);
+  padding: 0;
+}
+
+.film {
+  margin: 10px 0;
+  padding-right: 20px;
+  box-sizing: border-box;
+  opacity: 0;
+
+  .film-title {
+    @extend h6;
+    @extend %vertical-rhythm;
+    color: $brand-color;
+  }
+
+  .film-year,
+  .film-genre,
+  .film-director,
+  .film-actors,
+  .film-rating {
+    display: inline;
+    @extend h6;
+    margin: 5px 0;
+    @extend %vertical-rhythm;
+    &:after {
+      display: inline;
+      content: " - ";
+    }
+  }
+
+  .film-rating:after {
+    display: none;
+  }
+
+  .film-plot {
+    @extend p;
+    margin-top: 10px;
+    font-style: italic;
+    @extend %vertical-rhythm;
+  }
+}
+
+

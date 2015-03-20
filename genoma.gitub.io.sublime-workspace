@@ -1,0 +1,1760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data-",
+				"data-year"
+			],
+			[
+				"film",
+				"filmName"
+			],
+			[
+				"fim",
+				"filmName"
+			],
+			[
+				"bre",
+				"breackPoint"
+			],
+			[
+				"break",
+				"breackPointFunction"
+			],
+			[
+				"the",
+				"theWidth"
+			],
+			[
+				"b",
+				"blocksPerRow"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"lighe",
+				"lighten"
+			],
+			[
+				"ima",
+				"images/header.jpg"
+			],
+			[
+				"move",
+				"moveForward"
+			],
+			[
+				"lo",
+				"loopSpeed"
+			],
+			[
+				"aci",
+				"activeUl"
+			],
+			[
+				"ac",
+				"activeUl"
+			],
+			[
+				"img",
+				"imgAlt"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"alt",
+				"altDesc"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"photos",
+				"photosUl"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ani",
+				"animateBackward"
+			],
+			[
+				"phot",
+				"photosLi"
+			],
+			[
+				"mar",
+				"theMarginBefore"
+			],
+			[
+				"last",
+				"lastPlus"
+			],
+			[
+				"ligt",
+				"lighten"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margo",
+				"margin-top"
+			],
+			[
+				"a",
+				"a	<a href=\"mailto:\"> "
+			],
+			[
+				"text",
+				"text-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"small",
+				"small-font-size"
+			],
+			[
+				"sma",
+				"small-font-size"
+			],
+			[
+				"mart",
+				"margin-left"
+			],
+			[
+				"di",
+				"d:i	display:inline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "films.md",
+			"settings":
+			{
+				"buffer_size": 2337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/films.coffee",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_films.scss",
+			"settings":
+			{
+				"buffer_size": 626,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 3067,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "wrao",
+		"selected_items":
+		[
+			[
+				"wrao",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"com",
+				"Coffee: Compile File"
+			],
+			[
+				"comp",
+				"Coffee: Compile File"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"coff",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"f",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"blic",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"cssc",
+				"CSS3: Clear Gutter Marks"
+			],
+			[
+				"coffee",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"commit",
+				"git: commit"
+			],
+			[
+				"te",
+				"Open in terminal"
+			],
+			[
+				"filepa",
+				"Insert Filepath"
+			],
+			[
+				"path",
+				"FuzzyFilePath: Rebuild cache"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gitsa",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"git pus",
+				"git: push"
+			],
+			[
+				"git commi	",
+				"Git: Commit"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"gitsav",
+				"GitSavvy: help"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Open in terminal"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"defau",
+				"Preferences: Settings - Default"
+			],
+			[
+				"linter",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"plug",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Select Bracket Content with Brackets"
+			],
+			[
+				"makin",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"make w",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"menu",
+				"Snippet: <menu>"
+			],
+			[
+				"kei",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"keu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"wrpa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"reo",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"open",
+				"Open in terminal"
+			],
+			[
+				"remov",
+				"Package Control: Remove Repository"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"1s",
+				"Go to 1self Dashboard"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"nstall",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa	c",
+				"Package Control: Install Package"
+			],
+			[
+				"remove paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"boot",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - Default"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - Default"
+			],
+			[
+				"select",
+				"Emmet: Select Next Item"
+			],
+			[
+				"remve pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"angular",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"insa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"wat",
+				"Coffee: Toggle Watch Mode"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 567.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jenoma/genoma.github.io",
+		"/Users/jenoma/genoma.github.io/js"
+	],
+	"file_history":
+	[
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jenoma/genoma.github.io/_site/js/films.js",
+		"/Users/jenoma/genoma.github.io/_config.yml",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jenoma/Develop/test/scripts.js",
+		"/Users/jenoma/genoma.github.io/_sass/_variables.scss",
+		"/Users/jenoma/genoma.github.io/_layouts/default.html",
+		"/Users/jenoma/genoma.github.io/_sass/_syntax-highlighting.scss",
+		"/Users/jenoma/genoma.github.io/_site/css/main.css",
+		"/Users/jenoma/genoma.github.io/js/films.coffee",
+		"/Users/jenoma/genoma.github.io/_includes/header.html",
+		"/Users/jenoma/genoma.github.io/_includes/menu.html",
+		"/Users/jenoma/genoma.github.io/_sass/_menu.scss",
+		"/Users/jenoma/genoma.github.io/_sass/_layout.scss",
+		"/Users/jenoma/genoma.github.io/resume.md",
+		"/Users/jenoma/genoma.github.io/_layouts/films.html",
+		"/Users/jenoma/Develop/gallerize/js/gallerize.coffee",
+		"/Users/jenoma/GitHub/Vintageous/Vintageous.sublime-project",
+		"/Users/jenoma/Develop/gallerize/.editorconfig",
+		"/Users/jenoma/Develop/gallerize/Gruntfile.coffee",
+		"/Users/jenoma/Develop/gallerize/js/app.js",
+		"/Users/jenoma/genoma.github.io/about.md",
+		"/Users/jenoma/genoma.github.io/css/main.scss",
+		"/Users/jenoma/Develop/Mixo-Home/coffeescript/footer.coffee",
+		"/Users/jenoma/Develop/Fermi-one/css/app.css",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/FuzzyFilePath/Default (OSX).sublime-keymap",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/FuzzyFilePath.sublime-settings",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/index.html",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/README",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/js.js",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/carousel.js",
+		"/Users/jenoma/Documents/.editorconfig",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/css.css",
+		"/Users/jenoma/Documents/ciao.html",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/bower_components/fontawesome/css/font-awesome.css",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/Insert-Filepath/InsertFilepath.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/jenoma/Develop/fe-dev-home-assignment/jquery-1.11.1.min.js",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jenoma/Develop/mixo-teaser/images/star.svg",
+		"/Users/jenoma/Develop/mixo-teaser/images/mixo.svg",
+		"/Users/jenoma/Develop/mixo-teaser/images/heart.svg",
+		"/Users/jenoma/Develop/mixo-teaser/bower.json",
+		"/Users/jenoma/Develop/mixo-teaser/index.html",
+		"/Users/jenoma/genoma.github.io/portfolio.md",
+		"/Users/jenoma/genoma.github.io/_site/CNAME",
+		"/Users/jenoma/genoma.github.io/_site/about.html",
+		"/Users/jenoma/genoma.github.io/_includes/footer.html",
+		"/Users/jenoma/genoma.github.io/index.html",
+		"/Users/jenoma/Develop/mixo-teaser/css/app.css",
+		"/Users/jenoma/Develop/mixo-teaser/css/app.scss",
+		"/Users/jenoma/Develop/mixo-teaser/sendmail.php",
+		"/Users/jenoma/Develop/mixo-teaser/config.codekit",
+		"/Users/jenoma/genoma-github/_includes/menu.html",
+		"/Users/jenoma/genoma-github/_config.yml",
+		"/Users/jenoma/genoma-github/_sass/_layout.scss",
+		"/Users/jenoma/genoma-github/_site/css/main.css",
+		"/Users/jenoma/genoma-github/about.md",
+		"/Users/jenoma/genoma-github/_layouts/page.html",
+		"/Users/jenoma/genoma-github/_includes/footer.html",
+		"/Users/jenoma/genoma-github/_sass/_menu.scss",
+		"/Users/jenoma/genoma-github/index.html",
+		"/Users/jenoma/genoma-github/css/main.scss",
+		"/Users/jenoma/genoma-github/portfolio.md",
+		"/Users/jenoma/genoma-github/_layouts/post.html",
+		"/Users/jenoma/genoma-github/_posts/2015-02-24-unite-vim.md",
+		"/Users/jenoma/genoma-github/_sass/_syntax-highlighting.scss",
+		"/Users/jenoma/genoma-github/resume.md",
+		"/Users/jenoma/genoma-github/js/app.coffee",
+		"/Users/jenoma/genoma-github/_sass/_variables.scss",
+		"/Users/jenoma/genoma-github/_includes/header.html",
+		"/Users/jenoma/genoma-github/_includes/head.html",
+		"/Users/jenoma/genoma-github/_site/2015/02/24/unite-vim.html",
+		"/Users/jenoma/genoma-github/_site/2015/02/02/mac-vim.html",
+		"/Users/jenoma/genoma-github/_layouts/default.html",
+		"/Users/jenoma/genoma-github/_sass/_susy-settings.scss",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll.markdown",
+		"/Users/jenoma/genoma.github.io/_layouts/post.html",
+		"/Users/jenoma/genoma.github.io/_posts/2015-02-2-mac-vim.md",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy.markdown",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy 10.markdown",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy 11.markdown",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy 2.markdown",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy 3.markdown",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy 4.markdown",
+		"/Users/jenoma/genoma-github/_posts/2015-03-02-welcome-to-jekyll copy 5.markdown",
+		"/Users/jenoma/genoma-github/_site/jekyll/update/2015/03/02/welcome-to-jekyll.html",
+		"/Users/jenoma/genoma-github/.editorconfig",
+		"/Users/jenoma/genoma-github/_sass/_basic-grid.scss",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/CSS3/CSS3.sublime-settings",
+		"/Users/jenoma/genoma-github/.gitignore",
+		"/Users/jenoma/genoma-github/_site/js/app.js",
+		"/Users/jenoma/genoma-github/feed.xml",
+		"/Users/jenoma/genoma-github/_site/feed.xml",
+		"/Users/jenoma/genoma-github/_site/index.html",
+		"/Users/jenoma/genoma-github/_site/about/index.html",
+		"/Users/jenoma/Develop/gulpstrap2/index.html",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/jenoma/genoma-github/_sass/_base.scss",
+		"/Users/jenoma/Develop/gulpstrap2/README.md",
+		"/Users/jenoma/Develop/Yoox/index.html",
+		"/Users/jenoma/Develop/Mixo-Home/coffeescript/controllers/menu.coffee",
+		"/Users/jenoma/Develop/Mixo-Home/js/main-ck-source-map-reference.coffee",
+		"/Users/jenoma/Develop/Mixo-Home/dist/js/main-ck-source-map-reference.coffee",
+		"/Users/jenoma/Develop/Mixo-Home/kit/includes/_main-dependencies.kit",
+		"/Users/jenoma/Develop/Mixo-Home/images/elements/mixo-orange-01.svg",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/jenoma/Develop/Mixo-Home/Colors.md",
+		"/Users/jenoma/Develop/Mixo-Home/coffeescript/main.coffee",
+		"/Users/jenoma/Develop/Mixo-Home/js/app.js.map",
+		"/Users/jenoma/Develop/Mixo-Home/js/controllers-ck-source-map-reference.coffee",
+		"/Users/jenoma/Develop/Mixo-Home/index.html",
+		"/Users/jenoma/Library/Application Support/Sublime Text 3/Packages/LESS/README.md",
+		"/Users/jenoma/Develop/Mixo-Home/LICENSE",
+		"/Users/jenoma/Develop/Mixo-Home/dist/js/tests/vendor/qunit.css",
+		"/Users/jenoma/Develop/Mixo-Home/js/tests/vendor/qunit.css",
+		"/Users/jenoma/Develop/Mixo-Home/dist/css/app.css.map",
+		"/Users/jenoma/Develop/Mixo-Home/dist/css/app.css",
+		"/Users/jenoma/Develop/Mixo-Home/css/app.css.map",
+		"/Users/jenoma/Develop/Mixo-Home/css/app.css",
+		"/var/folders/9l/9ztrx3m51tq3glb8s30f7td80000gn/T/menu.js",
+		"/Users/jenoma/Develop/Mixo-Home/coffeescript/controllers/mail.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer",
+			"index",
+			"$main",
+			"main",
+			"fpas",
+			"padding",
+			"main",
+			"this",
+			"write",
+			"ceiling",
+			"length",
+			"integer",
+			"@import",
+			"fa-menu",
+			"mobileBreackPoint",
+			"\n      ",
+			"this.",
+			"this",
+			"blockWidth",
+			"this.",
+			"obj.",
+			"th",
+			"var",
+			"e",
+			"allImages",
+			"this",
+			"$this",
+			"append",
+			"\")\n",
+			"mainblock",
+			"#####",
+			"",
+			"speed",
+			"theIndex",
+			"this.settings.animationSpeed",
+			"theIndex",
+			"idnex",
+			"moveForward",
+			"animateForward",
+			"theIndex",
+			"animateForward",
+			"this.settings.animationSpeed",
+			"theInterval",
+			"indexUl",
+			"animationSpeed",
+			"loop",
+			"animationSpeed",
+			"$index",
+			"$inde",
+			"$photosUl",
+			"(index",
+			"index",
+			"indexa",
+			"index",
+			"$index",
+			"$",
+			" class=\"one_photo\"",
+			"ciao",
+			"photo\">",
+			"div class=\"desc\"",
+			"class=\"one_photo\"",
+			"</li>",
+			"right",
+			"10",
+			"animatef",
+			"theMarginAfter",
+			"960",
+			"//",
+			"this",
+			"photos",
+			"this",
+			"$this",
+			"photos",
+			"theindex",
+			"../",
+			"moveBackward",
+			"2000",
+			"1000",
+			"callback",
+			"1000",
+			"first",
+			"1000",
+			"span",
+			"<p>",
+			"svh",
+			"This",
+			")",
+			"lighter",
+			"\n    ",
+			"    \n",
+			"\n      ",
+			"      <",
+			"fa-menu",
+			"brand",
+			"10px",
+			"$menu-width",
+			"  font-size: $small-font-size !important;\n",
+			"footer",
+			" {",
+			"{\n",
+			"      <p class=\"post-excerpt\">\n        {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href=\"{{ post.url | prepend: site.baseurl }}\"> <small>[more]</small></a>\n      </p>\n",
+			"left",
+			"200px",
+			"700px",
+			"14",
+			"page-content",
+			"executable",
+			"draw_active",
+			"accele",
+			"div",
+			",",
+			"\",",
+			"\"*",
+			"shift+super+i",
+			"ignore",
+			"ctrl+w",
+			"reflect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"thing",
+			"obj",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "films.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								815
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_savvy.file_path": "/Users/jenoma/genoma.github.io/films.md",
+							"git_savvy.repo_path": "/Users/jenoma/genoma.github.io",
+							"spell_check": true,
+							"syntax": "Packages/SublimeLinter/fixed-syntaxes/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "js/films.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_savvy.file_path": "/Users/jenoma/genoma.github.io/js/films.coffee",
+							"git_savvy.repo_path": "/Users/jenoma/genoma.github.io",
+							"history_list_is_closing": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 196.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/_films.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_savvy.file_path": "/Users/jenoma/genoma.github.io/_sass/_films.scss",
+							"git_savvy.repo_path": "/Users/jenoma/genoma.github.io",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_sass/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1050,
+								1205
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_savvy.file_path": "/Users/jenoma/genoma.github.io/_sass/_variables.scss",
+							"git_savvy.repo_path": "/Users/jenoma/genoma.github.io",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "genoma.gitub.io.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"va",
+				"_sass/_variables.scss"
+			],
+			[
+				"sass",
+				"_sass/_films.scss"
+			],
+			[
+				"js",
+				"_site/js/films.js"
+			],
+			[
+				".fo",
+				"js/films.coffee"
+			],
+			[
+				"film",
+				"films.md"
+			],
+			[
+				"sc",
+				"scripts.js"
+			],
+			[
+				"scss",
+				"_sass/_layout.scss"
+			],
+			[
+				"la",
+				"_layouts/default.html"
+			],
+			[
+				"foot",
+				"_includes/footer.html"
+			],
+			[
+				"fi",
+				"js/films.coffee"
+			],
+			[
+				"lay",
+				"_sass/_layout.scss"
+			],
+			[
+				"menu",
+				"_includes/menu.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"co",
+				"js/gallerize.coffee"
+			],
+			[
+				"c",
+				"Gruntfile.coffee"
+			],
+			[
+				"coffee",
+				"coffeelint.json"
+			],
+			[
+				"css",
+				"css/gallerize.css"
+			],
+			[
+				"ao",
+				"js/app.coffee"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"",
+				"js/gallerize.coffee"
+			],
+			[
+				"g",
+				"Gruntfile.coffee"
+			],
+			[
+				".md",
+				"about.md"
+			],
+			[
+				".scss",
+				"_sass/_variables.scss"
+			],
+			[
+				"res",
+				"resume.md"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"re",
+				"README"
+			],
+			[
+				"rea",
+				"README"
+			],
+			[
+				"hear",
+				"images/heart.svg"
+			],
+			[
+				"mixo",
+				"images/mixo.svg"
+			],
+			[
+				"star",
+				"images/star.svg"
+			],
+			[
+				".s",
+				"css/app.scss"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"foote",
+				"_includes/footer.html"
+			],
+			[
+				"s",
+				"css/app.scss"
+			],
+			[
+				"men",
+				"_sass/_menu.scss"
+			],
+			[
+				"y",
+				"_config.yml"
+			],
+			[
+				"ya",
+				"_layouts/page.html"
+			],
+			[
+				"resume",
+				"resume.md"
+			],
+			[
+				"am",
+				"about.md"
+			],
+			[
+				"por",
+				"portfolio.md"
+			],
+			[
+				"ab",
+				"about.md"
+			],
+			[
+				"hea",
+				"_includes/header.html"
+			],
+			[
+				"v",
+				"_sass/_variables.scss"
+			],
+			[
+				"sy",
+				"_sass/_syntax-highlighting.scss"
+			],
+			[
+				"unite",
+				"_posts/2015-02-24-unite-vim.md"
+			],
+			[
+				"uni",
+				"_site/2015/02/24/unite-vim.html"
+			],
+			[
+				"main",
+				"css/main.scss"
+			],
+			[
+				"page",
+				"_layouts/page.html"
+			],
+			[
+				"hih",
+				"_sass/_syntax-highlighting.scss"
+			],
+			[
+				"md",
+				"_posts/2015-03-02-welcome-to-jekyll.markdown"
+			],
+			[
+				"resu",
+				"resume.md"
+			],
+			[
+				"foo",
+				"_includes/footer.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ym",
+				"_config.yml"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				".html",
+				"_layouts/post.html"
+			],
+			[
+				"gri",
+				"_sass/_basic-grid.scss"
+			],
+			[
+				"_sass/",
+				"_sass/_susy-settings.scss"
+			],
+			[
+				"_sass",
+				"_sass/_variables.scss"
+			],
+			[
+				"cofee",
+				"js/app.coffee"
+			],
+			[
+				"base",
+				"_sass/_base.scss"
+			],
+			[
+				"nde",
+				"index.html"
+			],
+			[
+				".coff",
+				"coffeescript/menu.coffee"
+			],
+			[
+				".cof",
+				"coffeescript/main.coffee"
+			],
+			[
+				".less",
+				"less/menu.less"
+			],
+			[
+				".c",
+				"coffeescript/controllers/menu.coffee"
+			],
+			[
+				".coffe",
+				"coffeescript/main.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 107.0,
+		"last_filter": "fa-menu",
+		"selected_items":
+		[
+			[
+				"fa-menu",
+				"fa-menu"
+			],
+			[
+				"footer",
+				"footer-center"
+			],
+			[
+				"",
+				"fa-beer"
+			],
+			[
+				"sub",
+				"sub-title"
+			],
+			[
+				"site-tie",
+				"site-title"
+			],
+			[
+				"there",
+				"there-is-more"
+			],
+			[
+				"there-",
+				"there-is-more"
+			],
+			[
+				"menu",
+				"menu"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

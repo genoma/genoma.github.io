@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RESUME
-permalink: /resume/
+title: CURRICULUM VITAE
+permalink: /curriculum-vitae/
 description: Alessandro Vioni frequently updated resume
 ---
 ### Personal profile:

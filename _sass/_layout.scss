@@ -13,22 +13,34 @@ body {
 
 // Menu and header text color
 .fa-menu {
-  cursor: pointer;
   font-size: 18px;
+  cursor: pointer;
 
   @media #{$small} {
     font-size: 40px;
   }
 
-  &:hover {
-    border-radius: 100%;
-    box-shadow: 0 0 10px 1px darken($text-color, 10);
+  .fa-circle {
+    color: $background-color;
   }
 
-  .fa-circle {color: $background-color; }
+  .fa-bars {
+    color: $brand-color;
+  }
 
-  .fa-bars { color: $brand-color; }
+  &.menu-close {
+    float: right;
+
+    @media #{$small} {
+      display: none;
+    }
+
+    .fa-times {
+      color: $brand-color;
+    }
+  }
 }
+
 
 .site-title {
   color: $brand-color;
