@@ -32,6 +32,8 @@ $ ->
         # RECACHE after the reordering
         $film = $(".film")
 
+        giveMeDatas($film, ".results")
+
         writeGrid($film)
 
         $film.animate
@@ -75,3 +77,15 @@ writeGrid = (element) ->
       theIndex = 0
       return
   return
+
+
+giveMeDatas = (element, eleToWrite) ->
+  totalRatings = 0
+  totalLoops = 0
+  $(element).each ->
+    ratings = parseInt($(".film-rating", this).html().slice(-3))
+    totalRatings += ratings
+    totalLoops += 1
+    mediumValue = Math.round((totalRatings / totalLoops) * 100) / 100
+    $(eleToWrite).html("Average Votes: #{mediumValue}")
+    return

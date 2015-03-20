@@ -5,7 +5,7 @@ permalink: /films/
 description: Alessandro Vioni favorite films
 ---
 
-My favorite films in chronological order (updated often):
+My favorite films in chronological order:
 
 <i class="fa fa-spin fa-cog fa-4x loading-films"></i>
 
@@ -141,4 +141,56 @@ My favorite films in chronological order (updated often):
     <div class="film-plot"></div>
   </div>
 
+  <div class="film" data-film="Scarface">
+    <div class="film-title"></div>
+    <div class="film-year"></div>
+    <div class="film-genre"></div>
+    <div class="film-director"></div>
+    <div class="film-actors"></div>
+    <div class="film-rating"></div>
+    <div class="film-plot"></div>
+  </div>
+
+  <div class="film" data-film="Serpico">
+    <div class="film-title"></div>
+    <div class="film-year"></div>
+    <div class="film-genre"></div>
+    <div class="film-director"></div>
+    <div class="film-actors"></div>
+    <div class="film-rating"></div>
+    <div class="film-plot"></div>
+  </div>
+
+  <div class="film" data-film="Carlito's way">
+    <div class="film-title"></div>
+    <div class="film-year"></div>
+    <div class="film-genre"></div>
+    <div class="film-director"></div>
+    <div class="film-actors"></div>
+    <div class="film-rating"></div>
+    <div class="film-plot"></div>
+  </div>
+
+  <div class="film" data-film="2001 a space odyssey">
+    <div class="film-title"></div>
+    <div class="film-year"></div>
+    <div class="film-genre"></div>
+    <div class="film-director"></div>
+    <div class="film-actors"></div>
+    <div class="film-rating"></div>
+    <div class="film-plot"></div>
+  </div>
+
+  <div class="film" data-film="Above the law">
+    <div class="film-title"></div>
+    <div class="film-year"></div>
+    <div class="film-genre"></div>
+    <div class="film-director"></div>
+    <div class="film-actors"></div>
+    <div class="film-rating"></div>
+    <div class="film-plot"></div>
+  </div>
+
 </div>
+
+<div class="results"></div>

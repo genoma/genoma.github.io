@@ -21,6 +21,7 @@
     @extend %vertical-rhythm;
     color: $brand-color;
     text-transform: uppercase;
+    font-weight: 400;
   }
 
   .film-year,
@@ -32,6 +33,7 @@
     @extend h6;
     display: inline;
     margin: 5px 0;
+    font-weight: 400;
 
     &:after {
       content: ' - ';
@@ -48,6 +50,7 @@
     @extend p;
     font-style: italic;
     margin-top: 10px;
+    font-size: 18px;
   }
 }
 
@@ -62,4 +65,13 @@
   @media #{$small} {
     top: 350px;
   }
+}
+
+.results {
+  @extend h6;
+  font-weight: 400;
+  float: right;
+  text-transform: uppercase;
+  color: $brand-color;
+  margin-top: 50px;
 }
