@@ -46,7 +46,7 @@ $ ->
     return
   return
 
-checkElements = (element) ->
+@checkElements = (element) ->
   result = null
   elementLength = $(element).length
   howMany = 0

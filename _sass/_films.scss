@@ -6,6 +6,7 @@
 }
 
 .film-grid {
+  @extend %vertical-rhythm;
   @include container($small-px);
   padding: 0;
 }
@@ -20,8 +21,8 @@
     @extend h6;
     @extend %vertical-rhythm;
     color: $brand-color;
-    text-transform: uppercase;
     font-weight: 400;
+    text-transform: uppercase;
   }
 
   .film-year,
@@ -36,8 +37,10 @@
     font-weight: 400;
 
     &:after {
-      content: ' - ';
+      content: '-';
       display: inline;
+      margin: 0 5px;
+      color: $brand-color;
     }
   }
 
@@ -48,9 +51,9 @@
   .film-plot {
     @extend %vertical-rhythm;
     @extend p;
+    font-size: 18px;
     font-style: italic;
     margin-top: 10px;
-    font-size: 18px;
   }
 }
 
@@ -69,9 +72,9 @@
 
 .results {
   @extend h6;
-  font-weight: 400;
-  float: right;
-  text-transform: uppercase;
   color: $brand-color;
+  float: right;
+  font-weight: 400;
   margin-top: 50px;
+  text-transform: uppercase;
 }
