@@ -2,8 +2,6 @@
 ---
 writeResults = (data, element) ->
   $(".album-title", element).html data.album.name
-  # $(".album-year", element).html data.Year
-  # $(".album-genre", element).html data.Genre
   $(".album-artist", element).html data.album.artist
 
   $(".album-cover", element).css
@@ -16,12 +14,6 @@ writeResults = (data, element) ->
 
   $(".album-summary", element).html data.album.wiki.summary
 
-
-  # $(".album-actors", element).html data.Actors
-  # $(".album-rating", element).html "IMDB: #{data.imdbRating}"
-  # $(".album-plot", element).html data.Plot
-
-
 $ ->
   $music = $(".music")
 
@@ -31,14 +23,13 @@ $ ->
     albumArtist = $(this).attr "data-artist"
 
     $.getJSON("http://ws.audioscrobbler.com/2.0/?method=album.getinfo&api_key=4e44a8d0d650b86af1212f2b5b2f2f4b&artist=#{albumArtist}&album=#{albumTitle}&format=json").done (data, status) ->
-      # writeResults(data, $main)
-
-      console.log data.album.artist
 
       writeResults(data, $main)
 
       $music.animate
         "opacity": '1'
       , 200
-      # $main.attr "data-complete", "true"
-      # $main.attr "data-year", data.Year
+
+      return
+    return
+  return
