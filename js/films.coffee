@@ -1,6 +1,7 @@
 ---
 ---
 
+# Write the right content
 writeResults = (data, element) ->
   $(".film-title", element).html data.Title
   $(".film-year", element).html data.Year
@@ -17,7 +18,6 @@ $ ->
   $film.each ->
     main = this
     filmName = $(this).attr "data-film"
-    filmYear = $(this).attr "data-year"
 
     $.getJSON("http://www.omdbapi.com/?t=" + filmName + "&plot=short&r=json").done (data, status) ->
       writeResults(data, main)
@@ -56,11 +56,13 @@ checkElements = (element) ->
   return result
 
 writeGrid = (element) ->
+  # write grid wrapper
   indexGWrapper = 0
   while indexGWrapper < element.length
     element.slice(indexGWrapper, indexGWrapper + 2).wrapAll '<div class="film-grid"></div>'
     indexGWrapper += 2
 
+  # than write correct grid classes
   theIndex = 0
   $(element).each ->
     theIndex++
