@@ -14,6 +14,7 @@ writeResults = (data, element) ->
 $ ->
   $film = $(".film")
   $filmWrapper = $(".film-wrapper")
+  countIterations = 0
 
   $film.each ->
     $main = $(this)
@@ -24,7 +25,9 @@ $ ->
       $main.attr "data-complete", "true"
       $main.attr "data-year", data.Year
 
-      if checkElements($film)
+      countIterations += 1
+
+      if checkElements($film, countIterations)
         $filmWrapper.append $film.sort((a, b) ->
           return $(a).data("year") - $(b).data("year")
         )
@@ -46,18 +49,12 @@ $ ->
     return
   return
 
-@checkElements = (element) ->
-  result = null
+@checkElements = (element, countIterations) ->
   elementLength = $(element).length
-  howMany = 0
-  $(element).each ->
-    if $(this).attr "data-complete"
-      howMany += 1
-      if howMany is elementLength
-        result = true
-    else
-      result = false
-  return result
+  if elementLength is countIterations
+    return true
+  else
+    return false
 
 writeGrid = (element) ->
   # write grid wrapper
@@ -83,7 +80,7 @@ giveMeDatas = (element, eleToWrite) ->
   totalRatings = 0
   totalLoops = 0
   $(element).each ->
-    ratings = parseInt($(".film-rating", this).html().slice(-3))
+    ratings = parseInt($(".film-rating", this).html().slice( - 3))
     totalRatings += ratings
     totalLoops += 1
     mediumValue = Math.round((totalRatings / totalLoops) * 100) / 100
