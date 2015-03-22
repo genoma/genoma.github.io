@@ -1,17 +1,17 @@
 # Site settings
 title: alessandro vioni
-subtitle: front end tales of mistery and immagination
+subtitle: front end tales of mystery and imagination
 email: jenoma@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
              Alessandro Vioni front end development tales not for the faint
              of heart. I write about editors, languages, development methodologies,
              tools and sometime i just write for the sake of writing.
 footerdescription: >
-                   This blog has been developed with the aid of
-                   Susy and Jekyll, Vim and some coffee. If you'd like
-                   to contact me for any question, please don't esitate and send
-                   an email or a tweet, even a carrier pigeon will do. Thanks for visiting.<br>
-                   Alessandro.
+                  This blog has been developed with the aid of
+                  Susy, Jekyll, Atom nighties and some coffee. If you'd like
+                  to contact me for any question, please don't hesitate and send
+                  an email or a tweet, even a carrier pigeon will do. Thanks for visiting.<br>
+                  Alessandro.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.alessandrovioni.com" # the base hostname & protocol for your site
 twitter_username: jenoma
