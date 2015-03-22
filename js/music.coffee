@@ -16,6 +16,7 @@ writeResults = (data, element) ->
 
 $ ->
   $music = $(".music")
+  countIterations = 0
 
   $music.each ->
     $main = $(this)
@@ -27,7 +28,9 @@ $ ->
       $main.attr "data-complete", "true"
       $(".loading-films").fadeOut 100
 
-      if checkElements($music)
+      countIterations += 1
+
+      if checkElements($music, countIterations)
         $music.animate
           "opacity": '1'
         , 200
