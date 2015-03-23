@@ -7,9 +7,9 @@ description: Alessandro Vioni portfolio of recent active projects
 
 ## Krimefarm
 
-- [Mixo](http://mymixo.com/){:target="_blank"} (teaser page)
-- Mixo (soon)
-- Mixo e-commerce (soon)
+- [Mixo®](http://mymixo.com/){:target="_blank"} (teaser page)
+- Mixo® (soon)
+- Mixo® e-commerce (soon)
 - [Krime Farm](http://www.krimefarm.com){:target="_blank"}
 - [8euro](http://www.8euro.net){:target="_blank"}
 - [Nirvana Benessere](http://www.nirvanabenessere.it)
