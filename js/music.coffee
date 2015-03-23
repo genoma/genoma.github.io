@@ -5,7 +5,7 @@ writeResults = (data, element) ->
   $(".album-artist", element).html data.album.artist
 
   $(".album-cover", element).css
-    "background": "url(#{data.album.image[2]['#text']})"
+    "background": "url(#{data.album.image[3]['#text']})"
     "background-size": "cover"
     "background-position": "center center"
 
