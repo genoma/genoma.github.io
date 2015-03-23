@@ -11,7 +11,7 @@ description: Alessandro Vioni portfolio of recent active projects
 - [8euro](http://www.8euro.net){:target="_blank"}
 - [Nirvana Benessere](http://www.nirvanabenessere.it)
 - Fermi Istituti Privati (soon)
-- Mixo (soon)
+- [Mixo](http://mymixo.com/){:target="_blank"} (soon)
 
 ## Commandguru
 
