@@ -26,11 +26,11 @@ $ ->
     $.getJSON("http://ws.audioscrobbler.com/2.0/?method=album.getinfo&api_key=4e44a8d0d650b86af1212f2b5b2f2f4b&artist=#{albumArtist}&album=#{albumTitle}&format=json").done (data, status) ->
       writeResults(data, $main)
       $main.attr "data-complete", "true"
-      $(".loading-films").fadeOut 100
 
       countIterations += 1
 
       if checkElements($music, countIterations)
+        $(".loading-gear").fadeOut 100
         $music.animate
           "opacity": '1'
         , 200

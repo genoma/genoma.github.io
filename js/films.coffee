@@ -28,6 +28,7 @@ $ ->
       countIterations += 1
 
       if checkElements($film, countIterations)
+
         $filmWrapper.append $film.sort((a, b) ->
           return $(a).data("year") - $(b).data("year")
         )
@@ -39,12 +40,12 @@ $ ->
 
         writeGrid($film)
 
+        $(".loading-gear").fadeOut 100
+
         $film.animate
           "opacity": '1'
         , 200
-
-        $(".loading-films").fadeOut 100
-
+        
         return
     return
   return

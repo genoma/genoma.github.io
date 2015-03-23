@@ -1,4 +1,4 @@
-// FILM GRID
+// Film
 
 @include susy-breakpoint (700px) {
   .film-left { @include span(6); }
@@ -57,11 +57,10 @@
   }
 }
 
-.fa-cog.loading-films {
-  // margin-left: -34px;
+.fa-cog.loading-gear {
   color: $brand-color;
   left: 50%;
-  margin-left: -50px;
+  margin-left: -27.5px;
   position: absolute;
   top: 280px;
 

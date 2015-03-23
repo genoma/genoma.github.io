@@ -7,7 +7,7 @@ description: Alessandro Vioni favorite films
 
 My favorite films in chronological order:
 
-<i class="fa fa-spin fa-cog fa-4x loading-films"></i>
+<i class="fa fa-spin fa-cog fa-4x loading-gear"></i>
 
 <div class="film-wrapper">
 

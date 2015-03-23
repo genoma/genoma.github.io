@@ -7,7 +7,7 @@ description: Alessandro Vioni favorite music albums
 
 My favorite music albums:
 
-<i class="fa fa-spin fa-cog fa-4x loading-films"></i>
+<i class="fa fa-spin fa-cog fa-4x loading-gear"></i>
 
 <div class="music-wrapper">
 
