@@ -1,5 +1,6 @@
-// Film
+@charset "UTF-8";
 
+// FILM PAGE
 @include susy-breakpoint (700px) {
   .film-left { @include span(6); }
   .film-right { @include span(6 last); }

@@ -1,5 +1,6 @@
-// MUSIC
+@charset "UTF-8";
 
+// MUSIC PAGE
 @include susy-breakpoint (700px) {
   .album-left { @include span(6); }
   .album-right { @include span(6 last); }
