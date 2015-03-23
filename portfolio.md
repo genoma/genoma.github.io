@@ -12,8 +12,8 @@ description: Alessandro Vioni portfolio of recent active projects
 - [Nirvana Benessere](http://www.nirvanabenessere.it)
 - Fermi Istituti Privati (soon)
 - [Mixo](http://mymixo.com/){:target="_blank"} (teaser page)
-- [Mixo] (soon)
-- [Mixo e-commerce] (soon)
+- [Mixo] ... soon
+- [Mixo e-commerce] ...soon
 
 ## Commandguru
 
