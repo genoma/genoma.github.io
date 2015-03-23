@@ -10,9 +10,17 @@ writeResults = (data, element) ->
     "background-position": "center center"
 
   trackName = data.album.tracks.track
-  $(".album-tracks", element).append("<li>#{track.name}</li>") for track in trackName
+  trackNameLength = trackName.length
+  if trackName.length <= 12
+    $(".album-tracks", element).append("<li>#{track.name}</li>") for track in trackName
+  else
+    cutTrackNameLenght = trackNameLength - 12
+    trackName.splice(- cutTrackNameLenght)
+    trackName.push({"name": "...and more!"})
+    $(".album-tracks", element).append("<li>#{track.name}</li>") for track in trackName
 
   $(".album-summary", element).html data.album.wiki.summary
+  return
 
 $ ->
   $music = $(".music")
@@ -30,7 +38,7 @@ $ ->
       countIterations += 1
 
       if checkElements($music, countIterations)
-        $(".loading-gear").fadeOut 100
+        $(".loading-gear").fadeOut 120
         $music.animate
           "opacity": '1'
         , 200
